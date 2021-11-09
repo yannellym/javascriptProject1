@@ -1,4 +1,5 @@
 # javascriptProject1!
 
 First JavaScipt project: Random dice number generator. This was done by following along with Angela Yu's course.
-[Dicee](https://user-images.githubusercontent.com/91508647/140847225-7ce3d683-3087-46b1-8b37-d186e582ebfb.jpeg)
+
+!https://user-images.githubusercontent.com/91508647/140847335-cb1679e4-7a5b-4e48-8eca-93844807b269.jpeg
